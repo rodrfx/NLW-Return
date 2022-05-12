@@ -13,8 +13,10 @@
 
 ## 💻 Projeto
 
-<p> O projeto consiste em um Widget de Feedback que pode ser implementado em qualquer site para melhorar a comunicação do usuário com o administrador do site.</p>
-<p> Esse projeto foi feito na NLW Return trilha impulse. </p>
+<p> O projeto consiste em um Widget de Feedback que pode ser implementado em qualquer site para melhorar a comunicação do usuário com o administrador do site. Esse projeto foi feito na NLW Return trilha impulse.</p>
+
+🔗 [Acessar o projeto](https://nlw-return-front-rodrfx.vercel.app/)
+
 
 ## :clipboard: Funcionalidades
 - [x] Componente com acessibilidade para navegação pelo mouse ou teclado.
